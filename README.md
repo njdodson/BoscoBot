@@ -1,5 +1,4 @@
 <h1>BoscoBot v1.0.0</h1>
-A fun little discord bot I made for me and my friends. (DRG and Hunt: Showdown)
 
 <h2>Features</h2>
 <h3>Deep Rock Galactic</h3>
