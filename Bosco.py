@@ -6,7 +6,7 @@ from FantasyGame import HuntGame, HuntPlayer
 intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix='$',intents=intents)
-token="MTA0MTg1MzE3OTYzOTM2NTY1Mg.GLoPOh.RUCgV0z2YcPvPoS1XEIqQYCzKOtkE5nNPN_lyw"
+token=""
 
 ### Global Variables ###
 #Creat the Current Showdown Fantasy Game
